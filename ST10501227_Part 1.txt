@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Leratong Joy For One Foundation</title>
+</head>
+
+<body>
+
+    <!-- The name of the foundation I'm developing for -->
+    <h1>Leratong Joy For One Foundation</h1>
+
+    <!-- The organisation's slogan/motto -->
+    <h3>
+        <em>
+            Normalize the lives of orphaned, abandoned and abused children
+            from all walks of life
+        </em>
+    </h3>
+
+    <!-- Main image -->
+    <img src="children.jpg" width="300" alt="Children supported by the foundation">
+
+    <p>
+        This website is intended to help the organization gain better visibility,
+        improve engagement and attract more donors and sponsorships to drive its
+        mission forward.
+    </p>
+
+    <!-- A picture from a few years ago of some of the children housed at the home -->
+    <img src="Leratong.jpg" width="400" alt="Leratong foundation photograph">
+
+
+    <!-- Get involved section -->
+    <h2>ENQUIRY / GET INVOLVED</h2>
+
+    <p>
+        #Donate</a>
+        #Volunteer</a>
+        #Partner</a>
+    </p>
+
+
+    <!-- Contact information -->
+    <h2>Contact Us</h2>
+
+    <p>Phone: 011 264 0042</p>
+
+    <p>Address: 102 12th Ave, Alexandra, 2014</p>
+
+
+    <!-- Footer -->
+    <p>&copy; 2026 Leratong Joy For One Foundation. All rights reserved.</p>
+
+</body>
+
+</html>
